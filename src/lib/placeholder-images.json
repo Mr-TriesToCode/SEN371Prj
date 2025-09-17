@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-welcome",
+      "description": "A vibrant and retro cyberpunk e-learning environment",
+      "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "imageHint": "cyberpunk city"
+    },
+    {
+      "id": "user-avatar-student",
+      "description": "Avatar for a student user",
+      "imageUrl": "https://randomuser.me/api/portraits/med/men/75.jpg",
+      "imageHint": "pixel art student"
+    },
+    {
+      "id": "user-avatar-tutor",
+      "description": "Avatar for a tutor user",
+      "imageUrl": "https://randomuser.me/api/portraits/med/women/65.jpg",
+      "imageHint": "pixel art teacher"
+    },
+    {
+      "id": "user-avatar-admin",
+      "description": "Avatar for an admin user",
+      "imageUrl": "https://randomuser.me/api/portraits/med/men/45.jpg",
+      "imageHint": "pixel art professional"
+    },
+    {
+      "id": "course-react",
+      "description": "Thumbnail for Cybersecurity course",
+      "imageUrl": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=600&q=80",
+      "imageHint": "cybersecurity code"
+    },
+    {
+      "id": "course-python",
+      "description": "Thumbnail for AI and Machine Learning course",
+      "imageUrl": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=600&q=80",
+      "imageHint": "machine learning"
+    },
+    {
+      "id": "course-history",
+      "description": "Thumbnail for Blockchain Technology course",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+      "imageHint": "blockchain"
+    },
+    {
+      "id": "course-design",
+      "description": "Thumbnail for Cloud Computing Essentials course",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=200&q=80",
+      "imageHint": "cloud computing"
+    },
+    {
+      "id": "course-new-1",
+      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249fdcc538d?auto=format&fit=crop&w=600&q=80",
+      "description": "Generic thumbnail for a new course",
+      "imageHint": "books library"
+    },
+    {
+      "id": "course-new-2",
+      "description": "Generic thumbnail for a new course",
+      "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=600&q=80",
+      "imageHint": "lecture hall"
+    },
+    {
+      "id": "course-new-3",
+      "description": "Generic thumbnail for a new course",
+      "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=600&q=80",
+      "imageHint": "students collaborating"
+    },
+    {
+      "id": "forum-post-1",
+      "description": "Image for a forum post about web development",
+      "imageUrl": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=600&q=80",
+      "imageHint": "laptop code"
+    }
+  ]
+}
