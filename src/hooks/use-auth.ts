@@ -25,18 +25,18 @@ const TOKEN_KEY = 'campuslearn-auth-token';
 
 const MOCK_USERS = {
   student: {
-    name: 'Alex Johnson',
-    email: 'alex.j@example.com',
+    name: 'Johannes Botha',
+    email: 'johannesbotha@campuslearn.co.xy',
     role: 'student' as UserRole,
   },
   tutor: {
-    name: 'Dr. Evelyn Reed',
-    email: 'e.reed@example.com',
+    name: 'Prof. Frederick Mbaku',
+    email: 'freddiembaku@campuslearn.co.xy',
     role: 'tutor' as UserRole,
   },
   admin: {
-    name: 'Maria Garcia',
-    email: 'm.garcia@example.com',
+    name: 'Bongi Tjbalala',
+    email: 'bongitja@campuslearn.co.xy',
     role: 'admin' as UserRole,
   },
 };
