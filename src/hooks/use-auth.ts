@@ -35,8 +35,8 @@ const MOCK_USERS = {
     role: 'tutor' as UserRole,
   },
   admin: {
-    name: 'Bongi Tjbalala',
-    email: 'bongitja@campuslearn.co.xy',
+    name: 'Mabena Xholisile',
+    email: 'mabxho@campuslearn.co.xy',
     role: 'admin' as UserRole,
   },
 };
